@@ -1,24 +1,24 @@
 - 👋 Hi, I’m Graham Taylor
 
 - 👀 I’m interested in ...
-  Neovim... 
-  Metaprogramming
-  Building cool things
-  Solving problems
+  - Neovim... 
+  - Metaprogramming
+  - Building cool things
+  - Solving problems
   
 - 🌱 I’m currently learning ...
-  Lisp
-  Design Patterns
-  The Pragmatic Programmer
-  C#
-  Angular
-  GraphQL
+  - Lisp
+  - Design Patterns
+  - The Pragmatic Programmer
+  - C#
+  - Angular
+  - GraphQL
   
 - 💞️ I’m looking to collaborate on ...
-  Cool projects and problems
+  - Cool projects and problems
   
 - 📫 How to reach me ...
-  email... teams... 
+  - email... teams... 
   
 - ⚡ Fun fact: 
 
